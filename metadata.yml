@@ -1,0 +1,12 @@
+---
+:id: 31389688
+:submitters:
+- :name: Maxwell Large
+  :email: maxwell.large23@myhunter.cuny.edu
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2020-03-06 04:01:53.758402000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2020-03-05 20:01:53.758402000 Z
+:status: processed
+:score: 49.0
